@@ -1,0 +1,12 @@
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\bin\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.deps.json
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\bin\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.dll
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\bin\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.pdb
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\obj\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.csproj.AssemblyReference.cache
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\obj\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\obj\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.AssemblyInfoInputs.cache
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\obj\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.AssemblyInfo.cs
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\obj\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\obj\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.dll
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\obj\Debug\net7.0\refint\ENB.SchoolTimetables.Infrastructure.dll
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\obj\Debug\net7.0\ENB.SchoolTimetables.Infrastructure.pdb
+C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.Infrastructure\obj\Debug\net7.0\ref\ENB.SchoolTimetables.Infrastructure.dll

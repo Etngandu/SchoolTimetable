@@ -1,0 +1,99 @@
+﻿@model ENB.SchoolTimetables.MVC.Models.CreateAndEditTeacher
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="alert alert-primary" role="alert">
+    <h2><strong>Edit Teacher</strong></h2>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header">
+                            <label asp-for="FirstName" class="control-label"></label>
+                        </div>
+                        <input asp-for="FirstName" class="form-control" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header">
+                            <label asp-for="LastName" class="control-label"></label>
+                        </div>
+                        <input asp-for="LastName" class="form-control" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header" style="margin-top:10px">
+                            <label asp-for="DateOfBirth" class="control-label"></label>
+                        </div>
+                        <input asp-for="DateOfBirth" class="form-control" />
+                        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header" style="margin-top:10px">
+                            <label asp-for="EmailAddress" class="control-label"></label>
+                        </div>
+                        <input asp-for="EmailAddress" class="form-control" />
+                        <span asp-validation-for="EmailAddress" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header" style="margin-top:10px">
+                            <label asp-for="Gender" class="control-label"></label>
+                        </div>
+                        <input asp-for="Gender" class="form-control" />
+                        <span asp-validation-for="Gender" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header" style="margin-top:10px">
+                            <label asp-for="PhoneNumber" class="control-label"></label>
+                        </div>
+                        <input asp-for="PhoneNumber" class="form-control" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>                
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <div class="card-header" style="margin-top:10px">
+                            <label asp-for="Other_details" class="control-label"></label>
+                        </div>
+                        <textarea asp-for="Other_details" type="text" class="form-control" rows="5" autofocus></textarea>
+                        <span asp-validation-for="Other_details" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:10px">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <a asp-action="Index" class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

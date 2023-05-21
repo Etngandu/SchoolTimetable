@@ -1,0 +1,49 @@
+﻿@model ENB.SchoolTimetables.MVC.Models.CreateAndEditTeacherSubject;
+@{
+    ViewData["Title"] = "MenusperMealCreate";
+}
+
+
+<div class="alert alert-dismissible alert-success">
+    <h2>Create Teacher linked to Subject: @ViewBag.Message</h2>
+</div>
+
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="TeachersperSubjectCreate" asp-route-SubjectId="@ViewBag.Idsubject">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+
+                    <div class="form-group">
+                        <label asp-for="Teacher" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <select id="drpEmpList" class="form-control" asp-for="TeacherId" asp-items="@(new SelectList(Model.ListTeacher, "Value", "Text"))">
+                            <option value="0">--Select--</option>
+                        </select>
+                        <span asp-validation-for="TeacherId" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row" style="margin-top:300px">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <a asp-action="TeachersperSubjectList" asp-route-SubjectId="@ViewBag.Idsubject" class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ENB.SchoolTimetables.MVC.props" />
+</Project>

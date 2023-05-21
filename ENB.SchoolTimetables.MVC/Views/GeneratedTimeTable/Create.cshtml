@@ -1,0 +1,50 @@
+﻿@model ENB.SchoolTimetables.MVC.Models.CreateAndEditGeneratedTimeTable
+@using ENB.SchoolTimetables.Entities
+@{
+    ViewData["Title"] = "Create";
+    
+}
+
+<div class="alert alert-primary" role="alert">
+    <h2><strong>Generate TimeTable for class @ViewBag.Message</strong></h2>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" asp-route-SubjectId="@ViewBag.IdSubject"
+              asp-route-TeacherId="@ViewBag.IdTeacher" asp-route-ClassrId="@ViewBag.IdClassR"
+              asp-route-PlannedTimetableId="@ViewBag.IdPlannedTimetable">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">  
+                <div class="col-md-6">
+                    <div class="form-group" style="margin-top:5px">
+                        <label asp-for="TimetableStatus" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <select asp-for="TimetableStatus" class="form-control" asp-items="Html.GetEnumSelectList<EventStatus>()"></select>
+                        <span asp-validation-for="TimetableStatus" class="text-danger"></span>
+                    </div>
+                </div>                
+            </div>
+                       
+            <div class="row" style="margin-top:25px">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <a asp-action="List" asp-route-SubjectId="@ViewBag.IdSubject" class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                    </div>
+                </div>
+            </div>            
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

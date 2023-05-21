@@ -1,0 +1,34 @@
+﻿@model ENB.SchoolTimetables.MVC.Models.DisplayTeacherSubject
+
+<div class="alert alert-dismissible alert-danger">
+    <h2>Do you Really want to remove this  Subject from Teacher: @ViewBag.Message ?</h2>
+</div>
+<div class="row">
+
+    <dl class="row">
+        <dt class="col-sm-2 card-header">
+            @Html.DisplayNameFor(model => model.SubjectName)
+        </dt>
+        <dd class="col-sm-10 card-header">
+            @Html.DisplayFor(model => model.SubjectName)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="row" style="margin-top:300px">
+            <div class="col-md-6">
+                <div class="form-group">
+                    @*<a asp-action="SubjectsperTeacherDelete" asp-route-TeacherId="@ViewBag.IdTeacher" asp-route-SubjectId="@ViewBag.IdSubject" class="btn btn-danger">Delete</a>*@
+                    <input type="submit" value="Delete" asp-route-TeacherId="@ViewBag.IdTeacher" asp-route-SubjectId="@ViewBag.IdSubject" asp-route-Id="@ViewBag.Id" class="btn btn-danger" />
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <a asp-action="SubjectsperTeacherList" asp-route-TeacherId="@ViewBag.IdTeacher" class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

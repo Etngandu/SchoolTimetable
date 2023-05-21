@@ -1,0 +1,197 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ENB.SchoolTimetables.MVC
+build_property.RootNamespace = ENB.SchoolTimetables.MVC
+build_property.ProjectDir = C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.MVC\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Devsource\ENB.SchoolTimetables\ENB.SchoolTimetables.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Addresses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Addresses/Redirect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXFJlZGlyZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/ClassR/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NSXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/ClassR/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NSXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/ClassR/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NSXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/ClassR/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NSXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/ClassR/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NSXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/ClassR/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NSXF9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/GeneratedTimeTable/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhdGVkVGltZVRhYmxlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/GeneratedTimeTable/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhdGVkVGltZVRhYmxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/PlannedTimeTable/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm5lZFRpbWVUYWJsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/PlannedTimeTable/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm5lZFRpbWVUYWJsZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/PlannedTimeTable/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm5lZFRpbWVUYWJsZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/PlannedTimeTable/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm5lZFRpbWVUYWJsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/PlannedTimeTable/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm5lZFRpbWVUYWJsZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/PlannedTimeTable/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm5lZFRpbWVUYWJsZVxfRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Subject/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Subject/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Subject/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Subject/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Subject/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Subject/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxfRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/TeacherSubject/SubjectsperTeacherCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclN1YmplY3RcU3ViamVjdHNwZXJUZWFjaGVyQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/TeacherSubject/SubjectsperTeacherDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclN1YmplY3RcU3ViamVjdHNwZXJUZWFjaGVyRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/TeacherSubject/SubjectsperTeacherList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclN1YmplY3RcU3ViamVjdHNwZXJUZWFjaGVyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/TeacherSubject/TeachersperSubjectCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclN1YmplY3RcVGVhY2hlcnNwZXJTdWJqZWN0Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/TeacherSubject/TeachersperSubjectDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclN1YmplY3RcVGVhY2hlcnNwZXJTdWJqZWN0RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/TeacherSubject/TeachersperSubjectList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclN1YmplY3RcVGVhY2hlcnNwZXJTdWJqZWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Teacher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Teacher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Teacher/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Teacher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Teacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Teacher/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxfRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.SchoolTimetables/ENB.SchoolTimetables.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-suoedds1u1
